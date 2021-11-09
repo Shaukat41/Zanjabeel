@@ -1,5 +1,5 @@
 # Zanjabeel
-PIAIC158834 HTML CSS Assignments  2020-2021
+
  
 ## Introduction
 This repository serves two purposes simultaneously; to turn in Cloud Native Computing course material and to develop a base and practice for showcasing my passion for zanjabeel in a website.
